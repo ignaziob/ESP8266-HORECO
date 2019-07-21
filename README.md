@@ -1,7 +1,6 @@
 # ESP8266-HORECO
 Home Remote Controller based on ESP8266
 
-# Kiosk
 The Minimum Viable Project consist in controlling lights via MQTT, using a set of switches visualised over the touchscreen.
 
 ## Documentation
